@@ -7,7 +7,7 @@ A recreation of Piet Mondrian's Composition III using HTML and CSS Grid. This pr
 - Minimalist: Pure HTML and CSS.
 
 ## 🖼️ Preview
-![Composition No III with Red Blue Yellow and Black (1929)]()
+![Composition No III with Red Blue Yellow and Black (1929)](goal.png)
 
 ## 💡 Inspiration
 This project draws inspiration from Piet Mondrian, a Dutch painter famous for his minimalist compositions of geometric shapes and primary colors.
