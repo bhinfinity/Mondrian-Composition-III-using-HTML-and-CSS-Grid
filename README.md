@@ -13,6 +13,6 @@ A recreation of Piet Mondrian's Composition III using HTML and CSS Grid. This pr
 This project draws inspiration from Piet Mondrian, a Dutch painter famous for his minimalist compositions of geometric shapes and primary colors.
 
 ## 🌱 What I Learned
-- Creating dynamic layouts with CSS Grid
-- Building a responsive art piece using only HTML and CSS
-- Reimagining classic art through code
+- Creating dynamic layouts with CSS Grid.
+- Building an art piece using only HTML and CSS.
+- Reimagining classic art through code.
